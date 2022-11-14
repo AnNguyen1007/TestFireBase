@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "265660508151",
+    "project_id": "quanly-96969",
+    "storage_bucket": "quanly-96969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265660508151:android:8fff0ae381b2134eae30f2",
+        "android_client_info": {
+          "package_name": "com.example.testfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "265660508151-le1vi251d1fludsmq0r8i2k8s6nqiaf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXZ8jbhX9PQOLDGlZ1Thu1o0pzKHtvF9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "265660508151-le1vi251d1fludsmq0r8i2k8s6nqiaf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
